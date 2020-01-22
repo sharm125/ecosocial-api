@@ -1,0 +1,34 @@
+{
+  "user" : [
+    {
+      "id" : 1,
+      "email": "carlosmbs@gmail.com",
+      "password": "123",
+      "name": "Carlos Sancho",
+      "avatar": ""
+    },
+    {
+      "id" : 2,
+      "email": "teste@mail.com",
+      "password": "123",
+      "name": "User Teste",
+      "avatar": ""
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "timestamp": "",
+      "text": "Primeiro post da eco social network",
+      "image": "",
+      "user": 1
+    },
+    {
+      "id": 2,
+      "timestamp": "",
+      "text": "Mais um post da eco social network",
+      "image": "",
+      "user": 2
+    }
+  ]
+}
