@@ -12,17 +12,4 @@
       "name": "User Teste"
      
     }
-  ],
-  "post": [
-    {
-      "id": 1,
-      "text": "Primeiro post da eco social network",
-      "image": ""
-    },
-    {
-      "id": 2,
-      "text": "Mais um post da eco social network",
-      "image": "",
-    }
   ]
-}
