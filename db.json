@@ -3,14 +3,44 @@
     {
       "id" : 1,
       "avatar": "",
-      "name": "Carlos Sancho"
+      "name": "António Menezes"
       
     },
     {
       "id" : 2,
       "avatar": "",
-      "name": "User Teste"
+      "name": "Maria Cequeira"
      
+    },
+    {
+      "id" : 3,
+      "avatar": "",
+      "name": "Zulmira Carvalho"
+    },
+    {
+      "id" : 4,
+      "avatar": "",
+      "name": "André Vieira"
+    },
+    {
+      "id" : 5,
+      "avatar": "",
+      "name": "Joana Costa"
+    },
+     {
+      "id" : 6,
+      "avatar": "",
+      "name": "Tatiana Mendes"
+    },
+     {
+      "id" : 7,
+      "avatar": "",
+      "name": "Valter Mendes"
+    },
+    {
+      "id" : 8,
+      "avatar": "",
+      "name": "Susana Gomes"
     }
   ]
 }
