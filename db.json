@@ -8,38 +8,38 @@
     },
     {
       "id" : 2,
-      "avatar": "",
+      "avatar": "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg-1024x683.jpg",
       "name": "Maria Cequeira"
      
     },
     {
       "id" : 3,
-      "avatar": "",
+      "avatar": "https://i0.wp.com/thevibrantmed.com/wp-content/uploads/2019/04/6547-e1555263176400.jpg?resize=500%2C484&ssl=1",
       "name": "Zulmira Carvalho"
     },
     {
       "id" : 4,
-      "avatar": "",
+      "avatar": "https://content-static.upwork.com/uploads/2014/10/02123010/profilephoto_goodcrop.jpg",
       "name": "André Vieira"
     },
     {
       "id" : 5,
-      "avatar": "",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdWPvL5u64o9FlXbAT_Epeadntf_Ff-Y3W3WpJf0v9zmYqGrLOg&s",
       "name": "Joana Costa"
     },
      {
       "id" : 6,
-      "avatar": "",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-GWU-5rf5YQmUmVmFIgrWLT13I4TWjwvUJsKz-9apDwzS0Dv&s",
       "name": "Tatiana Mendes"
     },
      {
       "id" : 7,
-      "avatar": "",
+      "avatar": "https://content-static.upwork.com/uploads/2014/10/01073435/profilephoto5.jpg",
       "name": "Valter Mendes"
     },
     {
       "id" : 8,
-      "avatar": "",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ilNoqvzER5ULzp6RpaBsjoqSqsdLxP01VSpDBDUZ1v8trYOIWw&s",
       "name": "Susana Gomes"
     }
   ]
