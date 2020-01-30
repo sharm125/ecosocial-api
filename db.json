@@ -43,7 +43,7 @@
       "name": "Jessy Morgan"
     }
   ],
-  "posts":[
+  "posts": [
     {
       "id":1,
       "avatar":"http://i.imgur.com/74sByqd.jpg",
@@ -84,7 +84,7 @@
       "id":5,
       "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdWPvL5u64o9FlXbAT_Epeadntf_Ff-Y3W3WpJf0v9zmYqGrLOg&s",
       "name":"Julie Coste",
-      "email":"",
+      "email":"jsewe@gmail.com",
       "contact":"327397234",
       "address":"Leeds",
       "description":"I like to go to gym and ride bicycle"
@@ -116,6 +116,6 @@
       "address":"Liverpool",
       "description":"I see many play football games many countries"
     }
-    ]
+   ]
 }
 
