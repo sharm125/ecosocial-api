@@ -1,54 +1,11 @@
 {
-  "user" : [
-    {
-      "id" : 1,
-      "avatar": "http://i.imgur.com/74sByqd.jpg",
-      "name": "John Denver"
-      
-    },
-    {
-      "id" : 2,
-      "avatar": "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg-1024x683.jpg",
-      "name": "Jessika Smith"
-     
-    },
-    {
-      "id" : 3,
-      "avatar": "https://i0.wp.com/thevibrantmed.com/wp-content/uploads/2019/04/6547-e1555263176400.jpg?resize=500%2C484&ssl=1",
-      "name": "Anastsya Zebic"
-    },
-    {
-      "id" : 4,
-      "avatar": "https://content-static.upwork.com/uploads/2014/10/02123010/profilephoto_goodcrop.jpg",
-      "name": "John Stark"
-    },
-    {
-      "id" : 5,
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdWPvL5u64o9FlXbAT_Epeadntf_Ff-Y3W3WpJf0v9zmYqGrLOg&s",
-      "name": "Julie Coste"
-    },
-     {
-      "id" : 6,
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-GWU-5rf5YQmUmVmFIgrWLT13I4TWjwvUJsKz-9apDwzS0Dv&s",
-      "name": "Suzan Sinclair"
-    },
-     {
-      "id" : 7,
-      "avatar": "https://content-static.upwork.com/uploads/2014/10/01073435/profilephoto5.jpg",
-      "name": "Marc Mendes"
-    },
-    {
-      "id" : 8,
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ilNoqvzER5ULzp6RpaBsjoqSqsdLxP01VSpDBDUZ1v8trYOIWw&s",
-      "name": "Jessy Morgan"
-    }
-  ],
-  "posts": [
+  "users": [
     {
       "id":1,
       "avatar":"http://i.imgur.com/74sByqd.jpg",
       "name":"John Denver",
       "email":"jtefed21@gmail.com",
+      "password": "123456",
       "contact":"3354658232",
       "address":"Cambridge",
       "description":"I drive cars all my carreer because is my job"
@@ -58,6 +15,7 @@
       "avatar":"https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg-1024x683.jpg",
       "name":"Jessika Smith",
       "email":"jsfgsr23@gmail.com",
+       "password": "123456",
       "contact":"322658232",
       "address":"London",
       "description":"Don't like snow"
@@ -67,6 +25,7 @@
       "avatar":"https://i0.wp.com/thevibrantmed.com/wp-content/uploads/2019/04/6547-e1555263176400.jpg?resize=500%2C484&ssl=1",
       "name":"Anastsya Zebic",
       "email":"ansre@gmail.com",
+      "password": "123456",
       "contact":"322658234",
       "address":"Birmigham",
       "description":"I like to read many books like a history, geographic and etc."
@@ -76,6 +35,7 @@
       "avatar":"https://content-static.upwork.com/uploads/2014/10/02123010/profilephoto_goodcrop.jpg",
       "name":"John Stark",
       "email":"jrdsre232@gmail.com",
+      "password": "123456",
       "contact":"3226582435",
       "address":"Edimburgh",
       "description":"I like to see snow and walk with my dogs"
@@ -85,6 +45,7 @@
       "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdWPvL5u64o9FlXbAT_Epeadntf_Ff-Y3W3WpJf0v9zmYqGrLOg&s",
       "name":"Julie Coste",
       "email":"jsewe@gmail.com",
+      "password": "123456",
       "contact":"327397234",
       "address":"Leeds",
       "description":"I like to go to gym and ride bicycle"
@@ -94,6 +55,7 @@
       "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-GWU-5rf5YQmUmVmFIgrWLT13I4TWjwvUJsKz-9apDwzS0Dv&s",
       "name":"Suzan Sinclair",
       "email":"ssewe3@gmail.com",
+      "password": "123456",
       "contact":"327213269",
       "address":"Bristol",
       "description":"I visited many countries all my life"
@@ -103,6 +65,7 @@
       "avatar":"https://content-static.upwork.com/uploads/2014/10/01073435/profilephoto5.jpg",
       "name":"Marc Mendes",
       "email":"ekfd@gmail.com",
+      "password": "123456",
       "contact":"327214234",
       "address":"Eastbourne",
       "description":"I love to eat fast food and play videogames"
@@ -112,10 +75,31 @@
       "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ilNoqvzER5ULzp6RpaBsjoqSqsdLxP01VSpDBDUZ1v8trYOIWw&s",
       "name":"Jessy Morgan",
       "email":"oeruf@gmail.ocm",
+      "password": "123456",
       "contact":"328534234",
       "address":"Liverpool",
       "description":"I see many play football games many countries"
     }
+   ],
+  "posts": [
+    {
+      "id": 1,
+      "user": 1, 
+      "text": "first post",
+      "image": "",
+      "likes": 10,
+      "comments": 20
+      "timestamp": "2020-01-30 15:18:50"
+    },
+    {
+      "id": 2,
+      "user": 2, 
+      "text": "second post",
+      "image": "",
+      "likes": 10,
+      "comments": 20
+      "timestamp": "2020-01-30 15:18:50"
+    },
    ]
 }
 
